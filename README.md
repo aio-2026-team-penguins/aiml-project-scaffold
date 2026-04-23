@@ -1,6 +1,3 @@
-Based on the file tree in your screenshot, here is a complete `README.md` file you can use. It highlights your use of **uv** and follows a standard clean-code structure for ML projects.
-
-```markdown
 # AI/ML Project Scaffold
 
 ## About
