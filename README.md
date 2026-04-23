@@ -49,9 +49,3 @@ uv sync
 ## Configuration
 - Store sensitive credentials (like API keys) in the `.env` file.
 - Manage dependencies by adding them via `uv add <package_name>`.
-```
-
-### Key Highlights for your README:
-* **Source Folder (`src/`):** Encourages moving logic out of notebooks and into reusable modules.
-* **UV Integration:** Since your screenshot shows `uv.lock`, emphasizing `uv sync` and `uv run` helps others (or your future self) get the environment running in seconds.
-* **Data/Models separation:** Keeps the root directory clean and ensures large binary files have a designated home.
